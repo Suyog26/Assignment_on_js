@@ -1,0 +1,25 @@
+{
+    "student_record":[
+      {
+        "id": 1,
+        "name": "Aniket",
+        "age": 24,
+        "designation": "SSE",
+        "Subject":"PCM"
+      },
+      {
+        "id": 2,
+        "name": "Vishwa",
+        "age": 23,
+        "designation": "BD",
+        "Subject":"PCMB"
+      },
+      {
+          "id":3,
+          "name":"Prabhakar",
+          "age":26,
+          "designation":"SSE",
+          "Subject":"PCMB"
+      }
+    ]
+  }
